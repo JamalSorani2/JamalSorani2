@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Clean_Architecture-42A5F5?style=flat-square" alt="Clean Architecture" />
   <img src="https://img.shields.io/badge/BLoC-7C4DFF?style=flat-square" alt="BLoC" />
-  <img src="https://komarev.com/ghpvc/?username=JamalSorani&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=JamalSorani&style=flat-square&color=blue" alt="Profile views" />x
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ## About Me
 
-I'm a Flutter developer with **2+ years** of experience shipping production iOS & Android apps across **fintech**, **trading**, **education**, and **logistics**.
+I'm a Flutter developer with **2+ years** of experience shipping production iOS & Android apps across **fintech**, **trading**, **education**, **logistics**, and **workforce admin**.
 
 I care about clean code, scalable architecture, strong UX, and secure release builds — from feature development to Play Console & App Store Connect.
 
@@ -38,6 +38,7 @@ I care about clean code, scalable architecture, strong UX, and secure release bu
 - Security-minded releases (biometrics, certificate pinning, HTTPS-only)
 - Open-source tooling for faster Flutter API integration
 
+Ask me about **Flutter, Dart, Clean Architecture**, or anything else in [Issues](https://github.com/JamalSorani/JamalSorani/issues).
 
 ---
 
@@ -125,6 +126,22 @@ Admin tools for shipments, containers, trips, dashboards, and PDF/Excel reportin
 
 </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### Al Ruwad Admin
+**Freelance · Workforce Admin**
+
+Admin platform for users/roles, duties, HR attendance, SignalR chat, and FCM notifications.
+
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.wpify.al_ruwad"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" /></a>
+</p>
+
+</td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
 </table>
 
 ---
@@ -190,6 +207,20 @@ A Flutter package that generates **Clean Architecture** or **MVVM** code from Sw
 | **MoolaPay** | Flutter Developer | Fintech · expenses · cards · multi-region payments |
 | **Golden Stocks** | Flutter Developer | Trading · MT5 · wallet · security |
 | **Elkood** | Flutter Developer | Education · POS · logistics apps |
+| **Freelance (Al Ruwad)** | Flutter Developer | Workforce admin · HR · chat · notifications |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JamalSorani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamalSorani&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/JamalSorani/JamalSorani/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
